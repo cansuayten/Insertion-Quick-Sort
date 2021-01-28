@@ -1,0 +1,11 @@
+C:\Users\Cansu\source\repos\VeriYapilari_Odev6_QuickSort\VeriYapilari_Odev6_QuickSort\bin\Debug\netcoreapp3.0\VeriYapilari_Odev6_QuickSort.exe
+C:\Users\Cansu\source\repos\VeriYapilari_Odev6_QuickSort\VeriYapilari_Odev6_QuickSort\bin\Debug\netcoreapp3.0\VeriYapilari_Odev6_QuickSort.deps.json
+C:\Users\Cansu\source\repos\VeriYapilari_Odev6_QuickSort\VeriYapilari_Odev6_QuickSort\bin\Debug\netcoreapp3.0\VeriYapilari_Odev6_QuickSort.runtimeconfig.json
+C:\Users\Cansu\source\repos\VeriYapilari_Odev6_QuickSort\VeriYapilari_Odev6_QuickSort\bin\Debug\netcoreapp3.0\VeriYapilari_Odev6_QuickSort.runtimeconfig.dev.json
+C:\Users\Cansu\source\repos\VeriYapilari_Odev6_QuickSort\VeriYapilari_Odev6_QuickSort\bin\Debug\netcoreapp3.0\VeriYapilari_Odev6_QuickSort.dll
+C:\Users\Cansu\source\repos\VeriYapilari_Odev6_QuickSort\VeriYapilari_Odev6_QuickSort\bin\Debug\netcoreapp3.0\VeriYapilari_Odev6_QuickSort.pdb
+C:\Users\Cansu\source\repos\VeriYapilari_Odev6_QuickSort\VeriYapilari_Odev6_QuickSort\obj\Debug\netcoreapp3.0\VeriYapilari_Odev6_QuickSort.csprojAssemblyReference.cache
+C:\Users\Cansu\source\repos\VeriYapilari_Odev6_QuickSort\VeriYapilari_Odev6_QuickSort\obj\Debug\netcoreapp3.0\VeriYapilari_Odev6_QuickSort.AssemblyInfoInputs.cache
+C:\Users\Cansu\source\repos\VeriYapilari_Odev6_QuickSort\VeriYapilari_Odev6_QuickSort\obj\Debug\netcoreapp3.0\VeriYapilari_Odev6_QuickSort.AssemblyInfo.cs
+C:\Users\Cansu\source\repos\VeriYapilari_Odev6_QuickSort\VeriYapilari_Odev6_QuickSort\obj\Debug\netcoreapp3.0\VeriYapilari_Odev6_QuickSort.dll
+C:\Users\Cansu\source\repos\VeriYapilari_Odev6_QuickSort\VeriYapilari_Odev6_QuickSort\obj\Debug\netcoreapp3.0\VeriYapilari_Odev6_QuickSort.pdb
